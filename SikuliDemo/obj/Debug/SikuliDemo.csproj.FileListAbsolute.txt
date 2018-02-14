@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\SikuliDemo.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\SikuliDemo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\SikuliDemo.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\Sikuli4Net.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\WebDriver.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\WebDriver.Support.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\WebDriver.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\bin\Debug\WebDriver.Support.xml
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.pdb
+C:\Users\user\Downloads\SikuliDemo\SikuliDemo\SikuliDemo\bin\Debug\SikuliDemo.exe.config
+C:\Users\user\Downloads\SikuliDemo\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.exe
+C:\Users\user\Downloads\SikuliDemo\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.pdb
+E:\project\SikuliDemo\SikuliDemo\bin\Debug\SikuliDemo.exe.config
+E:\project\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.exe
+E:\project\SikuliDemo\SikuliDemo\obj\Debug\SikuliDemo.pdb
